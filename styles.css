@@ -1,0 +1,71 @@
+h1 {margin: 0px;
+}
+.bio{
+    background-color: bisque; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: center;
+}
+.bio:hover{
+    background-color: salmon;
+    transition: 1.3s;
+}
+.photo{
+    background-color:darkgrey;
+    width: 400px;
+    height: 400px;
+    margin-left: 395px;
+    margin-bottom: 0px;
+    display: inline-block;
+    margin-top: 0px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+.photo:hover{
+    background-color: chocolate;
+    transition: 1.3s;
+}
+.education{
+    background-color: darkorange;
+    width: 400px;
+    height: 400px;
+    margin-left: 400px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.education:hover{
+    background-color: paleturquoise;
+    transition: 1.3s;
+}
+.hobbies{
+    background-color: tomato;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: dashed;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.hobbies:hover{
+    background-color: yellow;
+    transition: 1.3s;
+}
+.contact{
+    background-color: aquamarine;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin-left: 395px;
+    margin-top: 0px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.contact:hover{
+    background-color: springgreen;
+    transition: 1.3s;
+}
