@@ -9,6 +9,8 @@ h1 {margin: 0px;
     margin-bottom: 0px;
     margin-top: 0px;
     text-align: center;
+    position: relative;
+    top: 170px;
 }
 .bio:hover{
     background-color: salmon;
@@ -24,6 +26,8 @@ h1 {margin: 0px;
     margin-top: 0px;
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    top: 170px;
     
 }
 .photo:hover{
@@ -37,6 +41,8 @@ h1 {margin: 0px;
     margin-left: 400px;
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    top: 170px;
 }
 .education:hover{
     background-color: paleturquoise;
@@ -50,6 +56,8 @@ h1 {margin: 0px;
     text-align: center;
     text-decoration: dashed;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    top: 170px;
 }
 .hobbies:hover{
     background-color: yellow;
@@ -64,6 +72,8 @@ h1 {margin: 0px;
     margin-top: 0px;
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    top: 170px;
 }
 .contact:hover{
     background-color: springgreen;
